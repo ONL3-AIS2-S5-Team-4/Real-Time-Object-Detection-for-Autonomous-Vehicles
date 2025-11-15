@@ -179,14 +179,3 @@
 
 *This will save your team at least 2–3 days.*
 
----
-
-## 📘 Additional Resources Available
-
-I can generate:
-- ✅ A full PDF-style written report
-- ✅ Python preprocessing code
-- ✅ Notebook templates
-- ✅ Class distribution charts
-
-Just request any of these when ready!
